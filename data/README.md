@@ -1,0 +1,1 @@
+[Sina2016](https://github.com/lixintong1992/SocialEmotionData)是一个用于进行social emotion prediction训练的中文语料数据集，请从这个链接下载`2016.1-2016.11`这个文件并且放置在这个文件夹下。在`train.py`中会使用到这里的数据集。

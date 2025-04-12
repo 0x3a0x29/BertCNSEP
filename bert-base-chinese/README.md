@@ -1,0 +1,1 @@
+从[HUGGING FACE](https://huggingface.co/google-bert/bert-base-chinese)下载`bert-base-chinese`模型，将其中的`config.json`，`pytorch_model.bin`和`vocab.txt`放置在这个文件夹下。在`train.py`中会使用到这里的模型。
